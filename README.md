@@ -1,7 +1,7 @@
-#The Odin Project: Recipes
+# The Odin Project: Recipes
 Building a basic recipe website
 
-##Learning Outcomes
+## Learning Outcomes
 * Get a basic overview of HTML, CSS and how they work together
 * How to write the basic boilerplate for an HTML document
 * How to open HTML documents in your browser
